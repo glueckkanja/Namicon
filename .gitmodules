@@ -1,0 +1,3 @@
+[submodule "MurmurHash"]
+	path = MurmurHash
+	url = https://github.com/darrenkopp/murmurhash-net.git
